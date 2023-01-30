@@ -1,0 +1,29 @@
+ html, body {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  color: #9e2929;
+}
+button {
+  background-color: #9e2929;
+}
+.titlescreen {
+  display: block;
+  text-align:center;
+}
+.promptone {
+  display:none;
+  text-align:center;
+}
+.exitAisle {
+  display:none;
+    text-align:center;
+}
+.lightsOff {
+  display:none;
+    text-align:center;
+}
+.enterHall {
+  display:none;
+    text-align:center;
+}
